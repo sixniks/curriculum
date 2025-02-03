@@ -1,5 +1,5 @@
 ### Introduction
-
+Fake feature
 At the beginning of this section, you learned how to create and manipulate numbers and strings and how to assign them to variables. In real-world development, where you'll be working with dozens (and even hundreds!) of variables, working with numbers and strings individually is tedious, if not impossible.
 
 One way Ruby allows you to represent a collection of data is with **arrays**, which you can think of as ordered lists. Rather than working with individual variables, numbers, or strings, an array allows you to create and manipulate an ordered and indexed collection of these data. The individual variables, numbers, or strings within an array are known as **elements**. An array can contain any combination of variables, numbers, strings, or other Ruby objects (including other arrays), although it is advisable to keep similar data types in any one array.
